@@ -48,6 +48,13 @@ ScrollReveal().reveal(".about-wrapper__info", {
   origin: window.innerWidth > 768 ? "left" : "top",
 });
 
+/* Skills Section */
+ScrollReveal().reveal(".skills-wrapper__icon", {
+  ...defaultProps,
+  delay: 600,
+  origin: window.innerWidth > 768 ? "left" : "bottom",
+});
+
 /* Projects Section */
 ScrollReveal().reveal(".project-wrapper__text", {
   ...defaultProps,

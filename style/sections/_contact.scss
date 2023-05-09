@@ -23,6 +23,43 @@
     padding: 0 2rem;
     backface-visibility: hidden;
 
+      .contact-form {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        gap: 5px;
+      }
+      input {
+        height: 4rem;
+        width: 40%;
+        padding: 5px;
+      }
+      .email {
+        height: 20rem;
+        width: 40%;
+        padding: 5px;
+        resize: none;
+      }
+      button {
+        background: none;
+        color: inherit;
+        border: white 2px solid;
+        padding: 0;
+        font: inherit;
+        cursor: pointer;
+        outline: inherit;
+        width: 20%;
+        font-size: 2.5rem;
+        font-weight: 600;
+        margin-top: 10px;
+      }
+      button:hover {
+        color: $secondary-color;
+      }
+  
+
     &__text {
       margin-bottom: 2.5rem;
     }
