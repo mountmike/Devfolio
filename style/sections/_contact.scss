@@ -35,12 +35,18 @@
         height: 4rem;
         width: 40%;
         padding: 5px;
+        @include respond(phone) {
+          width: 80%;
+        }
       }
       .email {
         height: 20rem;
         width: 40%;
         padding: 5px;
         resize: none;
+        @include respond(phone) {
+          width: 80%;
+        }
       }
       button {
         background: none;
@@ -54,6 +60,9 @@
         font-size: 2.5rem;
         font-weight: 600;
         margin-top: 10px;
+        @include respond(phone) {
+          width: 80%;
+        }
       }
       button:hover {
         color: $secondary-color;
