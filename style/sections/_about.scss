@@ -56,5 +56,11 @@
         text-align: center;
       }
     }
+    &__cta {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      
+    }
   }
 }
