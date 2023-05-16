@@ -8,7 +8,7 @@ A portfolio website built off the back of [AnilSeervi's](https://github.com/Anil
 
 ⚡️ Modern UI Design + Reveal Animations + Hover Effects\
 ⚡️ One Page Layout\
-⚡️ Custom SCSS\
+⚡️ Custom SCSS\ 
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML5 & CSS3\
 ⚡ Fast and SEO Optimized
