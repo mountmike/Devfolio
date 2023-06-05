@@ -2,7 +2,7 @@
 
 A portfolio website built off the back of [AnilSeervi's](https://github.com/AnilSeervi) DevFolio [template](https://github.com/AnilSeervi/DevFolio).
 
-### [Check it out!](https://michaeltharratt.com/)
+## [Check it out!](https://michaeltharratt.com/)
 
 ## Features
 
